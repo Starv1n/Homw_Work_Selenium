@@ -21,4 +21,3 @@ public enum Element {
         this.by = by;
     }
 }
-//div[contains(@class,'applyButton-root')]//button[contains(@class,'button')]
